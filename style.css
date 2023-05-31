@@ -1,0 +1,27 @@
+.bg-colour{
+    background-color: aqua;
+}
+
+.my-name{
+    font-size: 100px;
+    font-family: 'Great Vibes', cursive;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+
+  .small > h2{
+    font-size: 3rem;    
+    font-family: 'Playfair', serif;
+  }
+
+  .bg{
+    background-color: rgb(199, 194, 187);
+  }
+
+  .list-black{
+    color: black;
+  }
